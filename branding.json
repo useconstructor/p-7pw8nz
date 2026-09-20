@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F9FB",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F8F9FB",
+  "textColor": "#1A1A1A",
+  "accentColor": "#0052CC",
+  "fontHeading": "Segoe UI",
+  "fontBody": "Inter",
+  "borderRadius": "0.375rem",
+  "logoText": "TaskFlow",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-7PW8NZ/logo.png",
+  "tone": "energetic"
+}
